@@ -29,9 +29,9 @@ Tic-Tac-Toe is a classic two-player game where players take turns marking spaces
 4. Press the "Reset" button to start a new game.
 
 ## Screenshots
-![Image](https://github.com/user-attachments/assets/1252eb36-1609-454a-a49e-fbcba8c6eca2)
-![Image](https://github.com/user-attachments/assets/2558b5f9-b8e5-40b4-b5a7-7eca4cc4b85c)
-![Image](https://github.com/user-attachments/assets/bba355d5-c028-42c2-89c5-75f3f7dade48)
+<img src="https://github.com/user-attachments/assets/1252eb36-1609-454a-a49e-fbcba8c6eca2" alt="Home Screen" width="300" />
+<img src="https://github.com/user-attachments/assets/2558b5f9-b8e5-40b4-b5a7-7eca4cc4b85c" alt="Home Screen" width="300" />
+<img src="https://github.com/user-attachments/assets/bba355d5-c028-42c2-89c5-75f3f7dade48" alt="Home Screen" width="300" />
 
 ## Future Improvements
 - Add AI opponent
