@@ -17,7 +17,7 @@ Tic-Tac-Toe is a classic two-player game where players take turns marking spaces
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/rahul00112233/tic-tac-toe.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the application on an emulator or physical device.
@@ -45,5 +45,5 @@ Feel free to fork this repository and contribute to the project by submitting pu
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or suggestions, feel free to contact me at [your email].
+For any questions or suggestions, feel free to contact me at [mauryarahul121175@gmail.com].
 
